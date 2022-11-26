@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Anirban Chatterjee
+- 👋 Hi, I’m a KaggleX Mentee 2022
 - 👀 I’m interested in learning python, linux and machine learning engineering.
 - 🌱 I’m currently learning how to do DSA and open source development like a pro.
 - 💞️ I’m looking to collaborate on projects using python to help the world.
