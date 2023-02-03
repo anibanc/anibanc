@@ -1,6 +1,6 @@
 - 👋 Hi, I’m a Google KaggleX Mentee 2022
 - 👀 I’m interested in learning python, linux and machine learning engineering.
-- 🌱 I’m currently learning how to do DSA and open source development like a pro.
+- 🌱 I’m currently learning how to do MLE projects with good basics.<-- DSA and open source development like a pro. -->
 - 💞️ I’m looking to collaborate on projects using python to help the world.
 <!---
 - 📫 How to reach me ... I'm available on anirbanc88@gmail.com and on twitter @anirbanc88
