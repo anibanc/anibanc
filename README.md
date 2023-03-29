@@ -1,11 +1,13 @@
-> Once the mind knows you're not going 
-> to quit something, it's going to try to
-> find more, and give you more.
->
-> It realizes you're not going to take the 
-> path of least resistance.
->
-> You're going to stay here until it's done.
+_**Once the mind knows you're not going  
+to quit something, it's going to try to   
+find more, and give you more.   
+\
+It realizes you're not going to take the    
+path of least resistance.     
+\
+You're going to stay here until it's done.**_      
+
+Mastering Python, Linux and Machine Learning!
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=anirban-oss&theme=dark)](https://git.io/streak-stats)
 
