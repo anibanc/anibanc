@@ -7,7 +7,11 @@ path of least resistance.
 \
 You're going to stay here until it's done.**_      
 
-Mastering Python, Linux and Machine Learning!
+<img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F8102836%2F9dc0308a568e2b1fce2df51bac6a6842%2F_105bc595-00a1-4c0a-81d9-e67434202235.jpg?generation=1680198915450028&alt=media" width="400" height="400">
+How to change the world with code? - Bing Image Creator<br>
+<br>
+<!-- Mastering Python, Linux and Machine Learning!<br> -->
+<br>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=anirban-oss&theme=dark)](https://git.io/streak-stats)
 
