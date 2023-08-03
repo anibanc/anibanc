@@ -1,3 +1,6 @@
+>“The consequences of today are determined by the actions of the past. <br>To change your future, alter your decisions today.”
+
+<!-- 
 _**Once the mind knows you're not going  
 to quit something, it's going to try to   
 find more, and give you more.   
@@ -10,7 +13,7 @@ You're going to stay here until it's done.**_
 <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F8102836%2F9dc0308a568e2b1fce2df51bac6a6842%2F_105bc595-00a1-4c0a-81d9-e67434202235.jpg?generation=1680198915450028&alt=media" width="400" height="400">
 How to change the world with code? - Bing Image Creator<br>
 <br>
-<!-- Mastering Python, Linux and Machine Learning!<br> -->
+Mastering Python, Linux and Machine Learning!<br> -->
 <br>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=anirban-oss&theme=dark)](https://git.io/streak-stats)
